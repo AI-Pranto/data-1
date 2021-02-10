@@ -8,7 +8,7 @@ library for use with OpenMC.
 
 import argparse
 import ssl
-import tarfile
+import zipfile
 from multiprocessing import Pool
 from pathlib import Path
 from shutil import rmtree
